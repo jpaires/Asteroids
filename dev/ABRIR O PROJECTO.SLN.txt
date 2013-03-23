@@ -1,0 +1,5 @@
+Para não sobrepôr um ficheiro ao readme.txt já existente nesta pasta foi criado este, 
+apenas para avisar que a solução final é aberta com o ficheiro projecto.sln desta directoria.
+
+Ela consiste do asteroids e da cglib, mas unimos os dois neste projecto do vstudio à parte.
+
